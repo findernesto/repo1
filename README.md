@@ -1,2 +1,3 @@
 # repo1
-Repo 1
+Ernesto Alvarez
+Northeastern University - Data Analytics
